@@ -44,3 +44,4 @@ So, a transaction can be verified if the previous transactions are verifiable, t
 * zaghal, A. Wikipedia Merkle Tree. Retrieved April 27, 2016, from https://en.wikipedia.org/wiki/Merkle_tree 
 * Blockchains. (2022, 5 april). A Guide To Merkle Trees. 101 Blockchains. Geraadpleegd op 30 april 2022, van https://101blockchains.com/merkle-trees/
 * Introduction to Merkle Tree. (z.d.). GeeksforGeeks. Geraadpleegd op 30 april 2022, van https://www.geeksforgeeks.org/introduction-to-merkle-tree/
+* Implementing Merkle Tree and Patricia Trie - Coinmonks. (z.d.). Medium. Geraadpleegd op 30 april 2022, van https://medium.com/coinmonks/implementing-merkle-tree-and-patricia-trie-b8badd6d9591
