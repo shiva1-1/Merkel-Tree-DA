@@ -4,6 +4,10 @@ Merkle tree is named after Ralph Merkle, it is a tree data structure where non-l
 -	Merkel trees allow efficient and secure verification of the contents of a large data structure.
 -	Merkle Tree is also known as Hash Tree.
 
+A Merkle tree is a hash-based data structure that is a generalization of the hash list. It is a tree structure in which each leaf node is a hash of a block of data, and each non-leaf node is a hash of its children. Typically, Merkle trees have a branching factor of 2, meaning that each node has up to 2 children.
+
+Merkle trees are used in distributed systems for efficient data verification. They are efficient because they use hashes instead of full files. Hashes are ways of encoding files that are much smaller than the actual file itself. Currently, their main uses are in peer-to-peer networks such as Tor, Bitcoin, and Git.
+
 ## Architecture
 <img src="https://ik.imagekit.io/cl22iiharm/image_cOTfhd3xb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651082560519" >
 
