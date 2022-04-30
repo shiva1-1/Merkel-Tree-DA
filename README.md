@@ -40,5 +40,6 @@ As we discussed earlier, hashing algorithms usage depends on the implementation.
 
 So, a transaction can be verified if the previous transactions are verifiable, thanks to the hash values.
 
-##Refernces
-
+## Refernces
+*
+zaghal, A. Wikipedia Merkle Tree. Retrieved April 27, 2016, from https://en.wikipedia.org/wiki/Merkle_tree 
