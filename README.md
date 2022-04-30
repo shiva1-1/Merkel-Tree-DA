@@ -36,3 +36,6 @@ The whole process of hashing can be done on a very large data set which makes th
 As we discussed earlier, hashing algorithms usage depends on the implementation. However, one of the most common hash functions that are used includes the SHA-2 cryptographic hash function. 
 
 So, a transaction can be verified if the previous transactions are verifiable, thanks to the hash values.
+
+##Refernces
+
