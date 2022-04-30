@@ -10,6 +10,9 @@ Merkle trees are used in distributed systems for efficient data verification. Th
 
 ## Architecture
 <img src="https://ik.imagekit.io/cl22iiharm/image_cOTfhd3xb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651082560519" >
+In this image, we see an input of data broken up into blocks labeled TX1 though TX4. Each of these blocks are hashed using some hash function. Then each pair of nodes are recursively hashed until we reach the root node, which is a hash of all nodes below it.
+
+Benefits and Protocol
 
 ## Algorithm
 Basically, Merkle trees are data structure trees where the non-leaf node is defined as a hash value of its respective child nodes. This also means that the Merkle tree is inverted down where the leaf nodes are the lowest node. 
